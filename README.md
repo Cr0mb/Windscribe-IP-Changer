@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Cr0mb/Windscribe-IP-Changer/assets/137664526/36998174-e1a3-4530-8687-912c313a5fac" alt="image">
+</p>
+
+
 # Windscribe-IP-Changer
 The Windscribe IP Changer is a Python script designed to automate IP address changes using Windscribe VPN. 
 With a user-friendly command-line interface (CLI), it provides flexibility in selecting server locations and setting change intervals, ensuring seamless operation and real-time status updates.
