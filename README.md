@@ -27,7 +27,13 @@ You can run the script with optional arguments for automation:
 
 **Adding CLI to PATH**
 
-Unsure what to do on linux, but for windows you can right click on the windscribe app and click "Open File Location".
+Unsure what to do on linux, maybe this:
+
+```
+export WINDSCRIBE_PATH="/path/to/windscribe-cli"
+```
+
+but for windows you can right click on the windscribe app and click "Open File Location".
 
 This will send you to windscribe's program files.
 
