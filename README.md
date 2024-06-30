@@ -55,6 +55,13 @@ Once in here, you want to pay attention to the second box, "System Variables," a
 
 Next, you want to press, "New," and copy and paste the directory file of "windscribe-cli.exe" into PATH.
 
+![image](https://github.com/Cr0mb/Windscribe-IP-Changer/assets/137664526/2bc01dd4-6791-438b-919b-fa427b1faade)
+
+![image](https://github.com/Cr0mb/Windscribe-IP-Changer/assets/137664526/e38ff544-30ea-43ff-bdd8-5f7406bdd2ac)
+
+
+
+
 
 
 
